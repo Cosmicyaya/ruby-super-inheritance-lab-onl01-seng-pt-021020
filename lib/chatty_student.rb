@@ -1,4 +1,4 @@
 class ChattyStudent
   def hello
-    puts
+    puts {chatty_student.hello}
 end
