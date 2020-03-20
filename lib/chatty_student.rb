@@ -1,6 +1,6 @@
 require "pry"
 class ChattyStudent
   def hello
-    puts {chatty_student.hello}
+    puts 
   end
 end
