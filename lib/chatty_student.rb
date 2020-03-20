@@ -4,4 +4,3 @@ class ChattyStudent
     puts {chatty_student.hello}
   end
 end
-binding.pry
